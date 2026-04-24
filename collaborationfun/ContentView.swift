@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Collab!")
-            Text("merge")
+            Text("uncommit!")
         }
         .padding()
     }
